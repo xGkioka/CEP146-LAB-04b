@@ -1,6 +1,6 @@
 # My Course Portfolio
 
-Welcome to my academic portfolio for [Course Name]!
+Welcome to my academic portfolio for [CEP146NEE.10326.2257]!
 
 ## About Me
 - Name: [Xenofon Gkioka][Antonio]
